@@ -1,2 +1,2 @@
 # deep-learning
-orgin of all
+# The origin of everything
